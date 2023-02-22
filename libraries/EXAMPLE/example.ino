@@ -6,16 +6,16 @@
 #include <WiFi.h>
 
 //firestore projtct id and API key
-const String FIREBASE_HOST = "healthcare-b2767";
-const String FIREBASE_KEY = "AIzaSyAUIWTnaEmPCEE8RLWlNYgktVHJK3ENnvc";
+const String FIREBASE_HOST = "your project id";
+const String FIREBASE_KEY = "your project API key";
 
 // user email and password
-const String USER_EMAIL = "khaledbecher12345@gmail.com";
-const String USER_PASSWORD = "#Password123";
+const String USER_EMAIL = "user email";
+const String USER_PASSWORD = "user password";
 
 //WIFI id and key
-const char* ssid = "gnet347774";
-const char* password = "347774347774";
+const char* ssid = "your ssid";
+const char* password = "your password";
 
 const int  closed_servo1_angle = 59;
 const int opened_servo1_angle = 178;
