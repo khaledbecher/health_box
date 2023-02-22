@@ -1,2 +1,2 @@
 # health_box
-this repository contains alla the classes used in health box project
+this repository contains all the classes used in health box project
